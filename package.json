@@ -1,8 +1,22 @@
 {
-  "name": "Rubyconf-workshops",
-  "description": "",
+  "name": "workshops",
   "version": "1.0.0",
+  "description": "A simple Meteor application managing workshops attendees, initially intended for JSConf Colombia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colombia-dev/workshops.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/colombia-dev/workshops/issues"
+  },
   "engines": {
-    "node": "0.12"
-  }
+    "node": "4.1.1"
+  },
+  "homepage": "https://github.com/colombia-dev/workshops#readme"
 }
